@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
+
+.sambody{
+    background-color: white;
+    color: gray;
+}
+.iphonebody{
+    color: white;
+    background-color: black;
+}
+.vid{
+    font-size: 0;
+    line-height: 0;
+    position: relative;
+}
+nav{
+    text-align: left;
+    text-decoration: none;
+    color: crimson;
+}
+
+.underline{
+    text-decoration: none;
+
+}
+
+#navbar{
+    color: crimson;
+}
+
+img{
+    margin-bottom: 50px;
+}
+
+.heading{
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+.flo{
+    float: right;
+    padding-top: 5px;
+}
+.flo_text{
+    padding-top: 50px;
+    margin-top: 0;
+}
+.sub{
+    color: white;
+    margin-top: 80px;
+}
+.con{
+    background-color: black;
+}
